@@ -6,7 +6,7 @@ This is very handy utility written in python for penetration testers using ubunt
 1. gitclone or download this tool.
 
     **To gitclone**
-    > sudo git clone https://github.com/zWR417H/rKali.git
+    > sudo git clone https://github.com/ksudhanshu961/rKali.git
 
 2. cd rKali
 
