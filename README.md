@@ -14,8 +14,8 @@ This is very handy utility written in python for penetration testers using ubunt
 
 4. sudo ./installme.sh
 
-Now, you can use this tool by typing ***sudo kali -e*** to enable KALI repository.
+Now, you can use this tool by typing **sudo kali -e** to enable KALI repository.
 
 **or**
 
-***sudo kali -d*** to disable KALI repository
+**sudo kali -d** to disable KALI repository
